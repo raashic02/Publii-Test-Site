@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://raashic02.github.io/publii-test-site/sitemap.xml
